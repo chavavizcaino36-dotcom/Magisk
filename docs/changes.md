@@ -1,6 +1,6 @@
 # Magisk Changelog
 
-### v30.6 (2025.12.1)
+### v30.6 (2026.12.1)
 
 - [MagiskInit] Revert a change that could result in bootloops
 
@@ -9,7 +9,7 @@
 - [General] Improve commandline argument parsing logic
 - [resetprop] Properly support Android versions with property overrides
 
-### v30.4 (2025.10.2)
+### v30.4 (2026.10.2)
 
 - [MagiskSU] Fix several implementation bugs
 
